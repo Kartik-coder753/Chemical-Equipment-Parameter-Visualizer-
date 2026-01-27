@@ -3,7 +3,7 @@ A high-performance dashboard for visualizing and analyzing chemical equipment pa
 
 🌟 Features
 📈 Real-time Data Visualization: Interactive charts and graphs for equipment parameters
-
+ 
 🤖 AI-Powered Insights: Gemini AI integration for operational recommendations
 
 📊 Comprehensive Analytics: Summary statistics and type distribution analysis
