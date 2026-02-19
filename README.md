@@ -1,7 +1,5 @@
 # Chemical-Equipment-Parameter-Visualizer-
-ChemEquip Visualizer 🔬📊
 A high-performance dashboard for visualizing and analyzing chemical equipment parameters from CSV datasets, featuring AI-powered operational insights and automated PDF reporting.
-
 🌟 Features
 📈 Real-time Data Visualization: Interactive charts and graphs for equipment parameters
 
